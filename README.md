@@ -1,8 +1,10 @@
 
-
 <p align="center">
   <img src="https://github.com/Lakshmipoojitha-G/Lakshmipoojitha-G/blob/main/github_bg.jpg" width="100%" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=2500&pause=500&color=FF5733&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Hi 👋+I'm+ 👩‍💻Gandavaram+Lakshmi+Poojitha;💻+Python+Full+Stack+Developer;🌱+Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+ 👩‍💻Gandavaram+Lakshmi+Poojitha;💻 Python+Full+Stack+Developer;🌱+Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gandavaram Lakshmi Poojitha</h1>
