@@ -12,7 +12,7 @@
 
 - 😂 Long name, longer codes, but always fun
 
-- 📫 How to reach me **gandavaramlakshmipoojitha@gmail.com**
+- 📫 How to reach me 👇 **gandavaramlakshmipoojitha@gmail.com**
 
 - ⚡ Fun fact **No fun fact, only Code.**
 
