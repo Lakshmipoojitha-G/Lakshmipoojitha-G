@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://github.com/Lakshmipoojitha-G/Lakshmipoojitha-G/blob/main/banner.svg" width="100%" />
-</p>
+<div style="position: relative; text-align: center;">
+  <img src="github_bg.jpg" style="width:100%;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <img src="https://github.com/Lakshmipoojitha-G/Lakshmipoojitha-G/blob/main/github_bg.jpg=Hi+👋,+I'm+Gandavaram+Lakshmi+Poojitha;Python+Full+Stack+Developer;Always+Learning+New+Things+🚀" />
+  </div>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Gandavaram Lakshmi Poojitha</h1>
