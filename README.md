@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Lakshmipoojitha-G/Lakshmipoojitha-G/blob/main/github_bg.jpg" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Gandavaram+Lakshmi+Poojitha;Python+Full+Stack+Developer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://github.com/Lakshmipoojitha-G/Lakshmipoojitha-G/blob/main/banner.svg" width="100%" />
 </p>
 
 
