@@ -3,10 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Gandavaram+Lakshmi+Poojitha;💻 Python+Full+Stack+Developer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Gandavaram+Lakshmi+Poojitha;Python+Full+Stack+Developer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
-
-
 <h1 align="center">Hi 👋, I'm Gandavaram Lakshmi Poojitha</h1>
 <h3 align="center">A passionate Python Full Stack developer</h3>
 
