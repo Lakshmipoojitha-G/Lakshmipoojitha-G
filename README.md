@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Lakshmipoojitha-G/Lakshmipoojitha-G/blob/main/github_bg.jpg" width="100%" />
+  <img src="https://github.com/Lakshmipoojitha-G/Lakshmipoojitha-G/blob/main/github_bg.jpg" width="100%" height="50%" />
 </p>
 
 <p align="center">
