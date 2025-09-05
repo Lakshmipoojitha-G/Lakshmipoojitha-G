@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-  <img src="https://github.com/Lakshmipoojitha-G/Lakshmipoojitha-G/blob/main/github_bg.jpg" width="50%" height="50%" />
+  <img src="https://github.com/Lakshmipoojitha-G/Lakshmipoojitha-G/blob/main/github_bg.jpg" width="100%" height="50%" />
 </p>
 <h3 align="center">A Passionate Python Full Stack Developer</h3>
 
