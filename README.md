@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://github.com/Lakshmipoojitha-G/Lakshmipoojitha-G/blob/main/github_bg.jpg" width="50%" height="50%" />
 </p>
-<h1 align="center">Hi 👋, I'm Gandavaram Lakshmi Poojitha</h1>
 <h3 align="center">A Passionate Python Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Lakshmipoojitha-G/Lakshmipoojitha-G/blob/main/gif.gif">
